@@ -1,0 +1,2 @@
+# senha
+Gerar senha
